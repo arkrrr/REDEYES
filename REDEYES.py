@@ -182,7 +182,7 @@ ____ ____ ___  ____ _   _ ____ ____
   print (bcolors.UNGU," # Di buat oleh arkrrr")
   print (bcolors.KUNING," #Mohon Maaf bila  script ini tidak terlalu bagus")
   print (bcolors.HIJAU," #Yang merasa kurang ama script ini tenang aja nanti akan di update^_^")
-  print (bcolors.KUNING,"hubungi saya di: anakjelek777@gmail.com")
+  print (bcolors.KUNING,"hubungi saya di: arkrrr755@gmail.com")
   print (bcolors.ENDC," ")
 
 def menu():
